@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ginakumar.github.io/sitemap/sitemap.txt
